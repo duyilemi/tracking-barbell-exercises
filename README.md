@@ -76,7 +76,7 @@ Deliver a system capable of:
    - Extract and cluster relevant features.
 
 5. **Model Development**:  
-   - Train classifiers (e.g., Random Forest, SVM, or Neural Networks).  
+   - Train classifiers (RandomForestClassifier, SVM, DecisionTreeClassifier, GaussianNB, KNeighborsClassifier e.t.c.).  
    - Evaluate and optimize model performance.
 
 6. **Repetition Counting**:  
