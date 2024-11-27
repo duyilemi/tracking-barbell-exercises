@@ -1,4 +1,4 @@
-You're absolutely right! For a README file, the "What You'll Learn" section could be rephrased to highlight the **key features** or **project capabilities**. Here's the updated README:
+
 
 ---
 
